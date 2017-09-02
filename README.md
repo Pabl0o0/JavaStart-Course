@@ -1,2 +1,2 @@
 # JavaStart-Course
-Tasks from course
+Tasks from the course
