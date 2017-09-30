@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.HBox?>
+
+
+<HBox xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea fx:id="TekstArea1" prefHeight="200.0" prefWidth="200.0" HBox.hgrow="ALWAYS" />
+      <TextArea fx:id="TekstArea2" prefHeight="200.0" prefWidth="200.0" HBox.hgrow="ALWAYS" />
+   </children>
+</HBox>
